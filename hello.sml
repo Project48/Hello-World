@@ -1,3 +1,6 @@
-print "Hello World";
+fun println s =
+	print (s^"\n");
 
-print "Hi";
+println "Hello World";
+
+println "Hi";
